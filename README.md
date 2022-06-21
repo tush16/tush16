@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there 👋
+ 
+- 🔭 I’m currently working on MERN Stack
+- 🌱 I’m currently learning Redux
+- 👯 I’m looking to collaborate on Open Source Projects and Hackathons.
+- 💬 Ask me about Javascript,Node.js, Express.js, C/C++, PHP,MYSQL,MongoDB, Mongoose and Restful API's.
+- 📫 How to reach me: tusharchoudhary8051@gmail.com
 
-<!--
-**tush16/tush16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=tush16&show_icons=true&theme=dark"/>
 
-Here are some ideas to get you started:
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tush16&layout=compact"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
