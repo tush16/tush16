@@ -6,7 +6,7 @@
 - 💬 Ask me about Javascript,Node.js, Express.js, C/C++, PHP,MYSQL,MongoDB, Mongoose and Restful API's.
 - 📫 How to reach me: tusharchoudhary8051@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tush16&show_icons=true&theme=dark)>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tush16&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
