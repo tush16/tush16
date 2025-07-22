@@ -1,9 +1,7 @@
 # Hi there 👋
  
-- 🔭 I’m currently working on MERN Stack
-- 🌱 I’m currently learning Redux
-- 👯 I’m looking to collaborate on Open Source Projects and Hackathons.
-- 💬 Ask me about Javascript,Spring Boot, Spring MVC, C/C++, PHP,MYSQL,MongoDB, Mongoose and Restful API's.
+- 🔭 I’m currently working on Data Engineering & Middleware
+- 💬 Ask me about Databricks, Azure, FastAPI, StreamLit, Plotly, Spring Boot, Spring MVC, C/C++, PHP, MYSQL, MongoDB and Restful API's.
 - 📫 How to reach me: tusharchoudhary8051@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tush16&show_icons=true&theme=dark)
